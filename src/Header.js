@@ -3,7 +3,12 @@ import "./header.css";
 
 function header() {
     return (
-        <div className="header"></div>
+        <div className="header">
+            <div class="header__icons" >
+                {/* All icons here */}
+            </div>
+            img
+        </div>
     )
 }
 
